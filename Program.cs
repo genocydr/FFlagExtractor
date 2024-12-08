@@ -85,7 +85,7 @@ namespace RobloxClientTracker
         private void ScanFlagsUsingInstructions(HashSet<string> flags)
         {
             // Set the path to your Roblox Studio executable here
-            string studioPath = @"S:\downloadhacks2\common-WindowsStudio64-version-6b2b01086f654c24\RobloxStudioBeta - Copy.exe";
+            string studioPath = @"pathtostudio\RobloxStudioBeta.exe";
             var binary = File.ReadAllBytes(studioPath);
 
             List<int> knownAddresses = new List<int>
@@ -209,7 +209,7 @@ namespace RobloxClientTracker
 
         public override void ExecuteRoutine()
         {
-            string extraContent = @"pathtostudiohere\RobloxStudioBeta.exe";
+            string extraContent = @"pathtostudio\version-xxxxxxxxxxxxx\extacontent";
 
             var flags = new HashSet<string>();
             var timer = new Stopwatch();
