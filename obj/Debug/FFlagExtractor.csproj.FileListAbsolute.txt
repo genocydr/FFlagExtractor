@@ -1,0 +1,10 @@
+C:\Users\soule\source\repos\ExeScanner\bin\Debug\ExeScanner.exe.config
+C:\Users\soule\source\repos\ExeScanner\bin\Debug\ExeScanner.exe
+C:\Users\soule\source\repos\ExeScanner\bin\Debug\ExeScanner.pdb
+C:\Users\soule\source\repos\ExeScanner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\soule\source\repos\ExeScanner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\soule\source\repos\ExeScanner\obj\Debug\FFlagExtractor.csproj.AssemblyReference.cache
+C:\Users\soule\source\repos\ExeScanner\obj\Debug\FFlagExtractor.csproj.CoreCompileInputs.cache
+C:\Users\soule\source\repos\ExeScanner\obj\Debug\FFlagExt.A333D991.Up2Date
+C:\Users\soule\source\repos\ExeScanner\obj\Debug\ExeScanner.exe
+C:\Users\soule\source\repos\ExeScanner\obj\Debug\ExeScanner.pdb
